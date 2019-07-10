@@ -1,0 +1,9 @@
+# 模块依赖
+node_modules/
+
+# 自动生层文件
+package-lock.json
+.DS_Store
+
+#编译文件
+dist/
